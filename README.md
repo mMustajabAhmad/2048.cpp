@@ -5,10 +5,10 @@ This is a simple console-based implementation of the popular 2048 game in C++. T
 **How to Play**
 1. Run the program.
 2. Use the following keys to make moves:
-  - Press 'a' or 'A' for leftward move.
-  - Press 'd' or 'D' for rightward move.
-  - Press 'w' or 'W' for upward move.
-  - Press 's' or 'S' for downward move.
+    - Press 'a' or 'A' for leftward move.
+    - Press 'd' or 'D' for rightward move.
+    - Press 'w' or 'W' for upward move.
+    - Press 's' or 'S' for downward move.
 3. Combine tiles with the same value to reach the tile with the value of 2048.
 4. The game ends when you win by reaching 2048 or lose when there are no more possible moves.
 
